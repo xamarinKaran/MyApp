@@ -23,5 +23,7 @@ public class second extends AppCompatActivity {
 
         int i=0;
         // hi karan welcome to git
+        //hello portal
+
     }
 }
